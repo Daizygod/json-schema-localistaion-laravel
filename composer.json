@@ -1,12 +1,12 @@
 {
-    "name": "justinrainbow/json-schema",
+    "name": "Daizygod/json-schema-localistaion-laravel",
     "type": "library",
     "description": "A library to validate a json schema.",
     "keywords": [
         "json",
         "schema"
     ],
-    "homepage": "https://github.com/justinrainbow/json-schema",
+    "homepage": "https://github.com/Daizygod/json-schema-localistaion-laravel",
     "license": "MIT",
     "authors": [
         {
@@ -55,11 +55,11 @@
         {
             "type": "package",
             "package": {
-                "name": "json-schema/json-schema-test-suite",
+                "name": "json-schema-localistaion-laravel/json-schema-test-suite",
                 "version": "1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/json-schema/JSON-Schema-Test-Suite",
+                    "url": "https://github.com/json-schema-localistaion-laravel/JSON-Schema-Test-Suite",
                     "reference": "1.2.0"
                 }
             }

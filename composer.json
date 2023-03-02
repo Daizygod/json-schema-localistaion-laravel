@@ -1,5 +1,5 @@
 {
-    "name": "Daizygod/json-schema-localistaion-laravel",
+    "name": "daizygod/json-schema-localistaion-laravel",
     "type": "library",
     "description": "A library to validate a json schema.",
     "keywords": [
@@ -24,6 +24,10 @@
         {
             "name": "Robert Schönthal",
             "email": "seroscho@googlemail.com"
+        },
+        {
+            "name": "Ruslan Bagmanov",
+            "email": "ruslansubway@mail.ru"
         }
     ],
     "require": {

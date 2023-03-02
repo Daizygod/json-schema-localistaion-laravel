@@ -1,8 +1,8 @@
-# JSON Schema for PHP
+# Localisation JSON Schema for Laravel
 
-[![Build Status](https://github.com/justinrainbow/json-schema/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/justinrainbow/json-schema/actions)
-[![Latest Stable Version](https://poser.pugx.org/justinrainbow/json-schema/v/stable.png)](https://packagist.org/packages/justinrainbow/json-schema)
-[![Total Downloads](https://poser.pugx.org/justinrainbow/json-schema/downloads.png)](https://packagist.org/packages/justinrainbow/json-schema)
+[![Build Status](https://github.com/daizygod/json-schema-localistaion-laravel/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/daizygod/json-schema-localistaion-laravel/actions)
+[![Latest Stable Version](https://poser.pugx.org/daizygod/json-schema-localistaion-laravel/v/stable.png)](https://packagist.org/packages/daizygod/json-schema-localistaion-laravel)
+[![Total Downloads](https://poser.pugx.org/daizygod/json-schema-localistaion-laravel/downloads.png)](https://packagist.org/packages/daizygod/json-schema-localistaion-laravel)
 
 A PHP Implementation for validating `JSON` Structures against a given `Schema` with support for `Schemas` of Draft-3 or Draft-4. Features of newer Drafts might not be supported. See [Table of All Versions of Everything](https://json-schema.org/specification-links.html#table-of-all-versions-of-everything) to get an overview of all existing Drafts.
 
@@ -13,7 +13,7 @@ See [json-schema](http://json-schema.org/) for more details.
 ### Library
 
 ```bash
-git clone https://github.com/justinrainbow/json-schema.git
+git clone https://github.com/daizygod/json-schema-localistaion-laravel.git
 ```
 
 ### Composer
@@ -21,7 +21,7 @@ git clone https://github.com/justinrainbow/json-schema.git
 [Install PHP Composer](https://getcomposer.org/doc/00-intro.md)
 
 ```bash
-composer require justinrainbow/json-schema
+composer require daizygod/json-schema-localistaion-laravel
 ```
 
 ## Usage
